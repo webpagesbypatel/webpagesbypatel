@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Susheel Kumar 👋</h1>
-<h3 align="center">AI & Machine Learning Engineer | Creative Frontend Developer | Health Tech Enthusiast</h3>
+<h3 align="center">Full Stack (MERN) Developer | AI Engineer | Health Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://webpagesbypatel.github.io/susheel.porfolio/" target="_blank">
@@ -17,37 +17,36 @@
 
 ### 👨‍💻 About Me
 
-I am a detail-oriented **AI & ML Engineering student** from Chennai, India, with a strong passion for building intelligent, user-centric applications. My goal is to bridge the gap between complex machine learning models and intuitive, polished user interfaces.
+I am a detail-oriented **Full Stack (MERN) Developer** with a deep passion for integrating intelligent **AI & ML** features into modern web applications. My focus is on building scalable, end-to-end solutions that solve real-world problems, particularly at the intersection of **AI, health tech, and social good**.
 
 - 🎓 Studying **B.Tech in Artificial Intelligence** at Saveetha School of Engineering (Expected June 2027).
-- 🧠 Deeply interested in the intersection of **AI, health tech, and social good**.
-- 🚀 Currently building full-stack applications and exploring real-time model training with TensorFlow.
-- 💡 I believe in minimalist design and writing clean, efficient code to solve real-world problems.
+- 🚀 Experienced in deploying full-stack AI applications and exploring frameworks like TensorFlow and LangChain.
+- 💡 I thrive on creating clean, efficient code and intuitive user experiences for complex systems.
 
 ---
 
 ### 🛠️ My Tech Stack
 
-My skills span across machine learning, web development, and programming, allowing me to work on end-to-end projects.
+My skill set covers the entire development lifecycle, from cloud infrastructure and backend logic to AI modeling and frontend design.
 
 <table>
   <tr>
+    <td align="center"><strong>Full Stack (MERN)</strong></td>
     <td align="center"><strong>AI & Machine Learning</strong></td>
-    <td align="center"><strong>Frontend Development</strong></td>
-    <td align="center"><strong>Languages & Tools</strong></td>
+    <td align="center"><strong>Cloud, Languages & Tools</strong></td>
   </tr>
   <tr>
     <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,tailwind" /><br>
+      <sub><b>MongoDB, Express, React, Node.js, JS, HTML, CSS, Tailwind</b></sub>
+    </td>
+    <td>
       <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" /><br>
-      <sub><b>Python, TensorFlow, PyTorch, Scikit-learn</b></sub>
+      <sub><b>Python, TensorFlow, PyTorch, Scikit-learn, LangChain</b></sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" /><br>
-      <sub><b>HTML, CSS, JavaScript, React, Tailwind, Bootstrap, Figma</b></sub>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,cs,git,github,vscode,netlify" /><br>
-      <sub><b>Java, C#, Git, GitHub, VS Code, Netlify</b></sub>
+      <img src="https://skillicons.dev/icons?i=azure,googlecolab,git,github,vscode,java,cs" /><br>
+      <sub><b>Azure, Google Colab, Git, GitHub, VS Code, Java, C#</b></sub>
     </td>
   </tr>
 </table>
@@ -56,40 +55,37 @@ My skills span across machine learning, web development, and programming, allowi
 
 ### 🚀 My Featured Projects
 
-Here are a few projects that showcase my skills in combining AI with frontend development.
+Here are a few projects that demonstrate my ability to build complete AI-powered applications.
 
 | Project                                    | Description                                                                                                   | Tech Stack                                                     | Links                                                                                                                             |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | 🥗 **Ditewise - AI Diet Planner**          | An AI-powered diet management app that generates tailored meal plans, logs food, and analyzes nutrients.          | `TensorFlow` `Scikit-learn` `Python` `JavaScript` `HTML/CSS` | [Live App](https://ditewise.netlify.app/community)                                                                                   |
-| 🌐 **Static Landing Pages**               | A collection of responsive, user-friendly landing pages for mock brands, focusing on modern UI/UX principles.   | `HTML` `CSS` `JavaScript` `GitHub Pages` `Netlify`               | [Live Site 1](https://webpagesbypatel.github.io/designs/)<br>[Live Site 2](https://makeoverbyyashi.netlify.app/)                 |
+| 🌐 **Responsive Web Designs**               | A collection of user-friendly landing pages for mock brands, focusing on modern UI/UX principles and lightweight deployment. | `HTML` `CSS` `JavaScript` `GitHub Pages` `Netlify`               | [Designs Repo](https://webpagesbypatel.github.io/designs/)<br>[Live Demo](https://makeoverbyyashi.netlify.app/)                 |
 | 💼 **Personal Portfolio**                  | My creative portfolio designed to showcase my journey, projects, and skills as a developer and designer.         | `HTML` `CSS` `JavaScript`                                      | [Live Site](https://webpagesbypatel.github.io/susheel.porfolio/)                                                                     |
+
 
 ---
 
 ### 🌱 I'm Currently Learning & Certifying
 
-I believe in continuous growth and am actively working on expanding my expertise.
+Continuous growth is my mantra. I am actively expanding my expertise across multiple domains.
 
 - 🤖 **Machine Learning Expert** - `freeCodeCamp` (Expected May 2025)
 - 📊 **Oracle SQL Professional** - `Oracle` (Expected Nov 2024)
 - ☕ **Oracle Java Professional** - `Oracle` (Expected Oct 2024)
 - 💻 **Microsoft C# Certification** - `Microsoft` (Completed June 2024)
-- ⚛️ Exploring **Next.js** to build more performant and scalable full-stack applications.
+- ☁️ Deepening my knowledge of cloud deployment and serverless architecture on **Azure**.
 
 ---
 
-### 📊 My GitHub Stats
+### 🌟 Highlights & Activities
 
-<!-- 
-  IMPORTANT: Replace `your-github-username` with your actual GitHub username in the links below
--->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Susheel's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+- 🚀 **Independent Innovator:** Built and deployed a full-stack AI health application from scratch.
+- 🤝 **Open Source Contributor:** Published working prototypes and contributed to open-source repositories.
+- 🧠 **Community Driven:** Actively participate in AI/ML hackathons and student developer communities.
+- 🏅 **Certified Achiever:** Successfully completed multiple professional certifications while pursuing a full-time degree.
+- ❤️ **Passionate Advocate:** Deeply invested in following and contributing to AI-driven social good applications.
+
 
 ---
 
