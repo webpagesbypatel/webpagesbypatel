@@ -36,14 +36,14 @@ I consistently sharpen my problem-solving skills and algorithmic thinking on Lee
 ### 🛠️ My Tech Arsenal
 My skill set is a comprehensive toolkit for building modern applications—from the cloud infrastructure and backend services to the AI core and the user-facing frontend.
 
-| Category                      | Technologies                                                                                                              |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **Full Stack Development**    | `MongoDB` `Express` `React` `Node.js` `JavaScript` `HTML5` `CSS3` `TailwindCSS`                                           |
-| **AI & Machine Learning**     | `TensorFlow` `PyTorch` `Scikit-learn` `LangChain`                                                                           |
-| **Cloud, Languages & Tools**  | `Python` `Java` `C#` `Azure` `Google Colab` `Git` `GitHub` `VS Code` `Netlify`                                            |
+| Category                      | Technologies                                                                                                    |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Full Stack Development**    | `MongoDB` `Express` `React` `Node.js` `JavaScript` `HTML5` `CSS3` `TailwindCSS`                                 |
+| **AI & Machine Learning**     | `TensorFlow` `PyTorch` `Scikit-learn` `LangChain`                                                                 |
+| **Cloud, Languages & Tools**  | `Python` `Java` `C#` `Azure` `Git` `GitHub` `VS Code` `Netlify`                                                 |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,python,tensorflow,pytorch,sklearn,java,cs,azure,googlecolab,git,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,python,tensorflow,pytorch,sklearn,java,cs,azure,git,vscode,netlify&perline=9" />
 </p>
 
 ---
