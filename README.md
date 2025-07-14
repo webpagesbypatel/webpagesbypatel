@@ -22,6 +22,15 @@
 ### 🚀 My Mission
 I'm a passionate **Full Stack Developer** specializing in the `MERN` stack, with a deep-seated interest in integrating **Artificial Intelligence** into practical, scalable applications. My primary goal is to build end-to-end solutions that are not only technologically advanced but also intuitive and impactful, especially in the health tech space. I thrive on bridging the gap between complex algorithms and polished user experiences.
 
+### 🧠 Problem Solving
+I consistently sharpen my problem-solving skills and algorithmic thinking on LeetCode.
+
+<p align="left">
+  <a href="https://leetcode.com/u/susheel_777/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-susheel__777-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile">
+  </a>
+</p>
+
 ---
 
 ### 🛠️ My Tech Arsenal
@@ -42,11 +51,12 @@ My skill set is a comprehensive toolkit for building modern applications—from 
 ### ✨ Featured Creations
 Here are a few projects I've built that showcase my passion for creating complete, intelligent solutions.
 
-| Project                                    | Description                                                                                                   | Tech Stack                                                     | Links                                                                                                                             |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 🥗 **Ditewise - AI Diet Planner**          | An AI-powered diet management app that generates tailored meal plans, logs food, and analyzes nutrients.          | `TensorFlow` `Scikit-learn` `Python` `JavaScript` `HTML/CSS` | [**Live App**](https://ditewise.netlify.app/community)                                                                            |
-| 🌐 **Responsive Web Designs**              | A collection of user-friendly landing pages for mock brands, focusing on modern UI/UX principles.                 | `HTML` `CSS` `JavaScript` `GitHub Pages` `Netlify`               | [**Designs Repo**](https://webpagesbypatel.github.io/designs/) <br> [**Live Demo**](https://makeoverbyyashi.netlify.app/)           |
-| 💼 **Personal Portfolio**                 | My creative portfolio designed to showcase my journey, projects, and skills as a developer and designer.        | `HTML` `CSS` `JavaScript`                                      | [**Live Site**](https://webpagesbypatel.github.io/susheel.porfolio/)                                                              |
+| Project                                    | Description                                                                                                   | Tech Stack                                                     | Links                                                                                                              |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 🥗 **Ditewise - AI Diet Planner**          | An AI-powered diet management app that generates tailored meal plans, logs food, and analyzes nutrients.          | `TensorFlow` `Scikit-learn` `Python` `JavaScript`                | [**Live App**](https://ditewise.netlify.app/community)                                                             |
+| 🎨 **Static Landing Pages**                | A collection of responsive, user-friendly landing pages for various mock brands, focused on modern UI/UX principles. | `HTML` `CSS` `JavaScript` `GitHub Pages`                         | [**Designs Repo**](https://webpagesbypatel.github.io/designs/)                                                     |
+| 💄 **Makeover by Yashi**                  | A modern, lightweight, and responsive landing page built for a mock beauty brand, deployed on Netlify.            | `HTML` `CSS` `JavaScript` `Netlify`                              | [**Live Demo**](https://makeoverbyyashi.netlify.app/)                                                              |
+| 💼 **Personal Portfolio**                 | My creative portfolio designed to showcase my journey, projects, and skills as a developer and designer.        | `HTML` `CSS` `JavaScript`                                      | [**Live Site**](https://webpagesbypatel.github.io/susheel.porfolio/)                                               |
 
 ---
 
