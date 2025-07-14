@@ -37,16 +37,16 @@ My skill set covers the entire development lifecycle, from cloud infrastructure 
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,tailwind" /><br>
+      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,tailwind" /><br>
       <sub><b>MongoDB, Express, React, Node.js, JS, HTML, CSS, Tailwind</b></sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" /><br>
-      <sub><b>Python, TensorFlow, PyTorch, Scikit-learn, LangChain</b></sub>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /><br>
+      <sub><b>TensorFlow, PyTorch, Scikit-learn, LangChain</b></sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=azure,googlecolab,git,github,vscode,java,cs" /><br>
-      <sub><b>Azure, Google Colab, Git, GitHub, VS Code, Java, C#</b></sub>
+      <img src="https://skillicons.dev/icons?i=python,java,cs,azure,googlecolab,git,github,vscode" /><br>
+      <sub><b>Python, Java, C#, Azure, Google Colab, Git, GitHub, VS Code</b></sub>
     </td>
   </tr>
 </table>
