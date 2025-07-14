@@ -9,7 +9,7 @@
   <a href="https://webpagesbypatel.github.io/susheel.porfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Explore_My_Portfolio-3B82F6?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/susheel-kumar-50597029" target="_blank">
+  <a href="https://www.linkedin.com/in/susheel-kumar-505970291/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:thotasusheelkumar04@gmail.com">
