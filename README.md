@@ -64,9 +64,9 @@ Here are a few projects I've built that showcase my passion for creating complet
 I am a firm believer in lifelong learning. Here's a look at my completed credentials and what I'm currently focused on.
 
 - ✅ **Microsoft C# Certification** - `Microsoft` (Completed June 2024)
-- ⏳ **Oracle Java Professional Certification** - `Oracle` (In Progress - Est. Oct 2024)
-- ⏳ **Oracle SQL Professional Certification** – `Oracle` (In Progress - Est. Nov 2024)
-- ⏳ **Machine Learning Expert Certification** - `freeCodeCamp.org` (In Progress - Est. May 2025)
+- ⏳ **Oracle Java Professional Certification** - `Oracle` (Est. Oct 2024)
+- ⏳ **Oracle SQL Professional Certification** – `Oracle` (Est. Nov 2024)
+- ⏳ **Machine Learning Expert Certification** - `freeCodeCamp.org` (Est. May 2025)
 
 **Current Focus:** Deepening my expertise in cloud deployment and serverless architecture using `Microsoft Azure` and building advanced full-stack applications with `Next.js`.
 
