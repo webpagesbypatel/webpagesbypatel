@@ -48,15 +48,16 @@ My skill set is a comprehensive toolkit for building modern applications—from 
 
 ---
 
-### ✨ Featured Creations
+## ✨ Featured Creations  
 Here are a few projects I've built that showcase my passion for creating complete, intelligent solutions.
 
-| Project                                    | Description                                                                                                   | Tech Stack                                                     | Links                                                                                                              |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 🥗 **Ditewise - AI Diet Planner**          | An AI-powered diet management app that generates tailored meal plans, logs food, and analyzes nutrients.          | `TensorFlow` `Scikit-learn` `Python` `JavaScript`                | [**Live App**](https://ditewise.netlify.app/community)                                                             |
-| 🎨 **Static Landing Pages**                | A collection of responsive, user-friendly landing pages for various mock brands, focused on modern UI/UX principles. | `HTML` `CSS` `JavaScript` `GitHub Pages`                         | [**Designs Repo**](https://webpagesbypatel.github.io/designs/)                                                     |
-| 💄 **Makeover by Yashi**                  | A modern, lightweight, and responsive landing page built for a mock beauty brand, deployed on Netlify.            | `HTML` `CSS` `JavaScript` `Netlify`                              | [**Live Demo**](https://makeoverbyyashi.netlify.app/)                                                              |
-| 💼 **Personal Portfolio**                 | My creative portfolio designed to showcase my journey, projects, and skills as a developer and designer.        | `HTML` `CSS` `JavaScript`                                      | [**Live Site**](https://webpagesbypatel.github.io/susheel.porfolio/)                                               |
+| Project | Description | Tech Stack | Links |
+|--------|-------------|------------|-------|
+| ⚖️ **LegalCopilot – AI Litigation Assistant** | An AI-powered legal assistant designed to support litigation strategy with intelligent case analysis, insights, and document assistance. | `Python` `Machine Learning` `JavaScript` `AI APIs` | [**Live App**](https://legal-ai-copilot-eight.vercel.app/) |
+| 🌎 **American Dream Platform** | A dynamic web platform designed to help users explore opportunities, resources, and guidance for building their future with a modern and responsive UI. | `React` `JavaScript` `CSS` `Vercel` | [**Live App**](https://american-dream-two.vercel.app/) |
+| 🎨 **Static Landing Pages** | A collection of responsive, user-friendly landing pages for various mock brands, focused on modern UI/UX principles. | `HTML` `CSS` `JavaScript` `GitHub Pages` | [**Designs Repo**](https://webpagesbypatel.github.io/designs/) |
+| 💄 **Makeover by Yashi** | A modern, lightweight, and responsive landing page built for a mock beauty brand, deployed on Netlify. | `HTML` `CSS` `JavaScript` `Netlify` | [**Live Demo**](https://makeoverbyyashi.netlify.app/) |
+| 💼 **Personal Portfolio** | My creative portfolio designed to showcase my journey, projects, and skills as a developer and designer. | `HTML` `CSS` `JavaScript` | [**Live Site**](https://webpagesbypatel.github.io/susheel.porfolio/) |
 
 ---
 
