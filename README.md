@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=Susheel%20Kumar&fontSize=50&fontColor=FFB000&fontAlign=50&fontAlignY=40&desc=AIML%20Developer%20%26%20Web%20Developer&descAlignY=65&descSize=20&descColor=C9D1D9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1F29,100:0D1117&height=200&section=header&text=Susheel%20Kumar&fontSize=50&fontColor=FFB000&fontAlign=50&fontAlignY=40&desc=AIML%20Developer%20%26%20Web%20Developer&descAlignY=65&descSize=20&descColor=C9D1D9&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&width=650&lines=AIML+Developer+%26+Web+Developer;Building+LegalCopilot+%E2%80%94+AI+Legal+Assistant;Python+%7C+TensorFlow+%7C+PyTorch+%7C+React.js;Exploring+health-tech+AI+solutions;Open+to+new+opportunities+%26+collaboration" alt="Typing SVG" /></a>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FFB000&height=3&section=header&width=100%25" width="60%"/>
+
 </div>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFB000,100:0D1117&height=2&section=header" width="70%"/></div>
 
 ### `$ whoami --connect`
 
@@ -17,13 +19,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFB000&color=0D1117)](https://github.com/susheepatel)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFB000&color=0D1117)](https://leetcode.com/u/susheel_777/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=susheepatel&color=ffb000&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/susheepatel?style=flat-square&color=FFB000&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/susheepatel?style=flat-square&color=FFB000&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=susheepatel&color=ffb000&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/susheepatel?style=for-the-badge&color=FFB000&labelColor=0D1117&logo=github)
+![Stars](https://img.shields.io/github/stars/susheepatel?style=for-the-badge&color=FFB000&labelColor=0D1117&logo=github)
 
 </div>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFB000,100:0D1117&height=2&section=header" width="70%"/></div>
 
 ### `$ cat about.md`
 
@@ -36,7 +38,7 @@ STACK    : Python, JavaScript, React.js, Node.js, TensorFlow, PyTorch
 OPEN_TO  : New opportunities & collaboration
 ```
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFB000,100:0D1117&height=2&section=header" width="70%"/></div>
 
 ### `$ ls tech-stack/`
 
@@ -56,7 +58,7 @@ OPEN_TO  : New opportunities & collaboration
 
 </div>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFB000,100:0D1117&height=2&section=header" width="70%"/></div>
 
 ### `$ grep -i specialty skills.log`
 
@@ -70,7 +72,7 @@ OPEN_TO  : New opportunities & collaboration
 
 </div>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFB000,100:0D1117&height=2&section=header" width="70%"/></div>
 
 ### `$ table expertise --domain`
 
@@ -83,7 +85,7 @@ OPEN_TO  : New opportunities & collaboration
 | LegalTech Applications | ⭐⭐⭐ | AI-assisted legal research & document analysis |
 | HealthTech Prototyping | ⭐⭐⭐ | Proof-of-concept health-tech solutions |
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFB000,100:0D1117&height=2&section=header" width="70%"/></div>
 
 ### `$ ./run featured-projects.sh`
 
@@ -129,7 +131,7 @@ A collection of landing pages demonstrating front-end skills, with a focus on cl
 
 </details>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFB000,100:0D1117&height=2&section=header" width="70%"/></div>
 
 ### `$ curl leetcode.com/u/susheel_777`
 
@@ -139,40 +141,40 @@ A collection of landing pages demonstrating front-end skills, with a focus on cl
 
 </div>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFB000,100:0D1117&height=2&section=header" width="70%"/></div>
 
 ### `$ fetch github-analytics --live`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=susheepatel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB000&icon_color=FFB000&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=susheepatel&hide_border=true&background=0D1117&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=susheepatel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB000&icon_color=FFB000&text_color=C9D1D9&rank_icon=github&count_private=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=susheepatel&hide_border=true&background=0D1117&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&mode=daily" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susheepatel&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB000&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susheepatel&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB000&text_color=C9D1D9&langs_count=8" width="48%" />
 
 </div>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFB000,100:0D1117&height=2&section=header" width="70%"/></div>
 
 ### `$ ./trophies --render`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=susheepatel&theme=flat&no-frame=true&column=7&title_color=FFB000&icon_color=FFB000&text_color=C9D1D9&bg_color=0D1117" />
+<img src="https://github-profile-trophy.vercel.app/?username=susheepatel&theme=flat&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8&title_color=FFB000&icon_color=FFB000&text_color=C9D1D9&bg_color=0D1117" />
 
 </div>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFB000,100:0D1117&height=2&section=header" width="70%"/></div>
 
 ### `$ plot activity-graph.svg`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=susheepatel&bg_color=0D1117&color=FFB000&line=FFB000&point=C9D1D9&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=susheepatel&bg_color=0D1117&color=FFB000&line=FFB000&point=C9D1D9&area=true&area_color=FFB000&hide_border=true&custom_title=Susheel's%20Contribution%20Graph" width="100%" />
 
 </div>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFB000,100:0D1117&height=2&section=header" width="70%"/></div>
 
 ### `$ summary --full`
 
@@ -188,7 +190,7 @@ A collection of landing pages demonstrating front-end skills, with a focus on cl
 
 </div>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFB000,100:0D1117&height=2&section=header" width="70%"/></div>
 
 ### `$ ./snake --theme dark`
 
@@ -198,7 +200,7 @@ A collection of landing pages demonstrating front-end skills, with a focus on cl
 
 </div>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFB000,100:0D1117&height=2&section=header" width="70%"/></div>
 
 ### `$ cat current-focus.yaml`
 
@@ -215,7 +217,7 @@ open_to:
   - New opportunities & collaboration
 ```
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FFB000,100:0D1117&height=2&section=header" width="70%"/></div>
 
 ### `$ ./connect.sh --all`
 
@@ -228,6 +230,6 @@ open_to:
 
 *"Bridging the gap between intelligent systems."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&fontColor=FFB000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1F29,100:0D1117&height=150&section=footer&fontColor=FFB000&animation=twinkling" width="100%"/>
 
 </div>
